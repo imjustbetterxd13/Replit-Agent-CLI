@@ -1,0 +1,26 @@
+{
+  "name": "replit-agent",
+  "version": "1.0.0",
+  "description": "A fancy TUI that connects to OpenRouter AI for interactive chat",
+  "main": "index.js",
+  "bin": {
+    "replit-agent": "./bin/replit-agent.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ai",
+    "chat",
+    "openrouter",
+    "tui",
+    "cli",
+    "replit"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "preferGlobal": true
+}
