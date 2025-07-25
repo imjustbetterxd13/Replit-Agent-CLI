@@ -4,7 +4,7 @@
   "description": "A fancy TUI that connects to OpenRouter AI for interactive chat",
   "main": "index.js",
   "bin": {
-    "replit-agent": "./bin/replit-agent.js"
+    "replit-agent": "./src/main.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
